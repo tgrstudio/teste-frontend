@@ -5,7 +5,7 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de
 ## Requisitos
 
 - Você deve desenvolver o projeto utilizando HTML, CSS, Javascript e Bootstrap, caso queira poderá utilizar outros framework como Jquery, totalmente opcional.
-- O projeto deverá ser entregue em um repositório no Github e deve-se adicionar ao projeto o usuário [@apollojoaov]([https://github.com/knewitzgui](https://github.com/ApolloJoaoV)) como colaborador.
+- O projeto deverá ser entregue em um repositório no Github e deve-se adicionar ao projeto o usuário [@ApolloJoaoV]([https://github.com/knewitzgui](https://github.com/ApolloJoaoV)) como colaborador.
 - Deve-se separar os arquivos de linguagem, HTML, CSS e JS.
 
 ## Critérios de Avaliação
